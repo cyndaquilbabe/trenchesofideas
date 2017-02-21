@@ -1,0 +1,76 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/********* general *********/
+
+body {
+	background-color: #d8d9d7;
+}
+
+h1, h2, h3 {
+	font-family: "blackhawk";
+	}
+	h1 {
+		font-size: 60px;
+		}
+	h2 {
+		font-size: 40px;
+		}
+	h3 {
+		font-size: 24px
+		}
+
+a{
+	text-decoration: none;
+	color: #454259;
+	}
+	a:hover {
+		color: #80a698;
+		}
+	a:visited {
+		color: #221d3f;
+		}
+
+p {
+	font: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 14px;
+	color: #454259;
+	}
+
+body div:nth-child(2) div h1 a {
+	color: #221d3f;
+	}
+
+.breadcrumbs {
+	background-color: #80a698;
+	border-color: #d8d9d7;
+	}
+
+.fa {
+	color: #80a698;
+}
+
+/********* navigation *********/
+.top-bar {
+	overflow: hidden;
+	background-color: #221d3f;
+	}
+.top-bar .name img {
+	height: 35px;
+	}
+.top-bar-section li.active:not(.has-form) a:not(.button) {
+	background-color: #80a698;
+	}
+
+
+/********* home *********/
+
+.label {
+	background-color: #80a698;
+}
+
+/********* blogpost page *********/
+
+
+
+/********* footer *********/
