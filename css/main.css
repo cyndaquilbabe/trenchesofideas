@@ -71,6 +71,14 @@ i .fa {
 
 /********* blogpost page *********/
 
+#mc_embed_signup {
+	background-color: #d8d9d7;
+	color: #221d3f;
+}
 
+.button {
+	background-color: #80a698;
+	border-color: #221d3f
+}
 
 /********* footer *********/
